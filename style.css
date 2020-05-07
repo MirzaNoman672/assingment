@@ -1,0 +1,138 @@
+
+* {
+    margin: 0px;padding: 0px;
+}
+
+.a1 { color: white; padding: 10px;}
+
+
+
+
+
+.main , .food  { background-color: #0744b4; padding: 15px;}
+.a2 { color: white; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.menu ul {
+    list-style: none; 
+}
+.menu ul li {
+    float: left;
+    background-color: white; border: 1px solid rgb(245, 240, 240);
+    width: 120px; height: 35px; text-align: center; line-height: 35px ; border-radius:8px;
+    position: relative ;margin-inline-start: 0px;
+}
+.menu ul li a { display: block; text-decoration: none; color:black; font-size: 0.7em; font-weight: bold; text-align: left;}
+.menu ul li a:hover { background-color: blue; border-radius: 8px;}
+.menu ul ul { position: absolute; display:none; width: 200px; height: 35px;}
+.menu ul li:hover> ul { display:block;}
+.menu ul ul ul { margin-left: 120px;top: 0px; border: 1px solid white; 
+    width:200px; height: 35px; text-align: left;}
+.sa { font-size: 0.7em; font-weight: bold; margin margin-left: 0px;}
+.menu2 {position: relative;left: 300px;top: -60px; }
+.row1 { background-color: #fdfdf5 ; }
+div { margin: 0px;}
+
+.lline{
+    color: white;
+    text-align: center;
+    background-color:#316dc3 ;
+    margin: 40px;
+}
+
+.intro{
+    position: relative;
+    top: 150px
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.paragraph{
+    margin: 0px;
+    background-color: rgb(240, 245, 247);}
+    
+.para1{
+
+    text-align: justify ;
+    margin-top: 50px;margin-left: 60px; margin-right: 60px;
+; }
+    .para2{
+        margin-top: 50px;
+        margin-left: 60px; margin-right: 60px;
+     }
+     .para3{
+        margin-top: 50px;
+        margin-left: 60px; margin-right: 60px;
+        
+     }
+     .para4{
+        margin-top: 50px;
+        margin-left: 60px; margin-right: 60px;
+     }
+     .dastar { color: white; ;}
+     .daily { color: rgb(88, 248, 88); font-size: 1.4em; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-weight: bold;}
+    .khan { color: white;  ;}
+.amount { font-family: 'Merriweather', serif;
+    font-size: 50px;}
+.f { font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;font-size: .9em;
+     font-weight: normal; margin-top: -20px; }
+     
+.aa1 { margin-top: 50px;}
+.onl { color: rgb(62, 62, 177); font-weight: lighter; font-size: o.7em;}
+.row1 { width: 300px; height: 150px; display: inline; margin-top: 80px; padding: 10px;}
+.d1 { background-color: white;  display: inline-block;
+     ;margin-top: 30px; 
+
+     text-align: center;
+    
+    
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+     text-align: center;
+     box-shadow: rgb(236, 235, 235) 8px 8px 10px;
+     margin: 5px;
+     padding: 35px;
+     background-color:white;
+     width: 350px;
+     height: 180px;
+     border: whitesmoke;}
+
+
+.mission { color:rgb(41, 41, 235); position:absolute; top 50px; left: 100px; padding: 30px; font-size: 1.5em;}
+.ha , .hb  { width: 300px;height: 70px; border-color:1px black;  padding: 20px;
+     display: inline-block; background-color: rgb(185, 245, 245); position: relative;top: 80px; }
+.hc , .hd { width: 300px;height: 70px; border-color:1px black;  padding: 10px; display: inline-block;
+     background-color: rgb(185, 245, 245)}
+
+.hd { position: relative; left: 305px; top:80px;}
+.hc { position: relative; left:-609px; top: 150px;}
+
+
+
+.mainn { background-color: cornsilk; width:800px; height: 300px;;padding: 30px;; color: blue;}
+.m1 , .m2 , .m3 , .m4 { border: steelblue; background-color: rgb(125, 236, 240); width: 300px;
+     height:70px ; line-height: 70px; display: inline-block; margin: 5px;}
+
+
+.zw { display: inline;}
+ { width:300px; text-align: justify; float: right; background-color: cornflowerblue;
+     position: relative; right: -400px; top:10px;background-color: cornsilk; d}
+.pp { color: black;}
+
+
+.main11 {width:300px;height: 300px;; text-align: justify; float: right; background-color: cornsilk;
+        position:absolute; right: 130px;; display: inline-block; top: 2190px; }
+
+
+
+.im { color: blue;}
+.g { color: green;}
+.pik { margin-top: 20px; padding: 10px; }
+.las { background-color: rgb(53, 52, 52); width: 1500px; height: 500px;
+     margin-top: 70px; color: white; padding:100px; line-height: 30px;}
+
+ .head { color: white;}
+ p i {  color: rgb(50, 235, 50) }
+ div p a i { color: white;}
+ .end { width: 1500px; height: 40px; background-color: rgb(64, 64, 240); padding: 8px;}
+.end p { margin-left: 60px;top: 10px; color: white; font-size: 0.8em;}
+
+
+   
+ 
